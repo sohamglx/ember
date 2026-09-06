@@ -15,6 +15,10 @@ Ember is a high-performance, 60 FPS 2D game engine built natively in Rust and sc
 
 ## Getting Started
 
+### Installation
+```bash
+fmp add https://github.com/shoya-129/ember
+```
 ### The `Game` Annotation
 
 Ember uses a global `@Game` annotation to initialize the window and inject the `game` object into your `main()` loop.
